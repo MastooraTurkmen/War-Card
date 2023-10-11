@@ -9,3 +9,6 @@
 ![Alt text](War-Card.png)
 ![Alt text](War-Card-2.png)
 ![Alt text](War-Card-3.png)
+
+
+## Languages and Tools are used
