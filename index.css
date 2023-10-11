@@ -1,67 +1,78 @@
-html, body {
-    margin: 0;
-    padding: 0;
-    background-image: url("img/table.png");
-    font-family: "Exo 2", sans-serif;
-    height: 100vh;
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("img/table.png");
+  font-family: "Exo 2", sans-serif;
+  height: 100vh;
 }
 
 body {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-between;
-    color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
 }
 
 button {
-    background-color: #FFF100;
-    cursor: pointer;
-    border: none;
+  background-color: #fff100;
+  cursor: pointer;
+  border: none;
 }
 
 button#new-deck {
-    align-self: flex-start;
-    padding: 5px;
+  align-self: flex-start;
+  padding: 5px;
 }
 
 button.draw {
-    font-size: 1.2em;
-    padding: 5px;
-    align-self: stretch;
+  font-size: 1.2em;
+  padding: 5px;
+  align-self: stretch;
 }
 
 div.card-slot {
-    border: 1px solid black;
-    border-radius: 5px;
-    height: 120px;
-    width: calc(120px * 5 / 7);
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 120px;
+  width: calc(120px * 5 / 7);
 }
 
 div.card-slot:nth-of-type(1) {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 img.card {
-    width: 100%;
-    height: 100%;
+  width: 100%;
+  height: 100%;
 }
 
 div.top {
-    display: flex;
-    align-items: flex-start;
-    align-self: flex-start;
+  display: flex;
+  align-items: flex-start;
+  align-self: flex-start;
 }
 
 div.top > p {
-    margin: 0;
-    margin-left: 10px;
+  margin: 0;
+  margin-left: 10px;
 }
 
 button:disabled {
-    cursor: not-allowed;
+  cursor: not-allowed;
 }
 
 h2 {
-    margin: 10px;
+  margin: 10px;
+}
+
+@media screen and (min-width: 1000px) {
+  button.draw {
+    align-self: center;
+    padding: 0.7em 2em;
+    font-weight: bold;
+    font-size: 1.5rem;
+    border-radius: 0.5em;
+  }
 }
