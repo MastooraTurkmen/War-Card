@@ -51,7 +51,6 @@ $ git clone https://github.com/MastooraTurkmen/War-Card.git
 $ cd War-Card
 ```
 
-
 ---
 
 ## Deployment 📥
