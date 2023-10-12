@@ -6,6 +6,7 @@
 2. when you click the Draw button you can get two random cards. Then this shows who win the game
 3. you can play the game until you reach to 52 cards.
 
+----
 
 ### Screenshots
 
