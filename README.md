@@ -11,7 +11,7 @@
 
 ![War-Card-0](./screenshot/War-Card-0.png)
 ![War-Card-1](./screenshot/War-Card-1.png)
-![War-Card-2](./img/War-Card-2.png)
+![War-Card-2](./screenshot/War-Card-2.png)
 
 ------
 
