@@ -14,7 +14,6 @@ async function handleClick() {
     const data = await res.json()
     remainingText.textContent = `Remaining cards: ${data.remaining}`
     deckId = data.deck_id
-    console.log(deckId)
 }
 
 newDeckBtn.addEventListener("click", handleClick)
