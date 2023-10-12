@@ -25,3 +25,10 @@
     + [VSCode](https://github.com/topics/vscode)
     + [Figma](https://github.com/topics/figma)
     + [Netlify](https://github.com/topics/netlify)
+
+
+
+-----
+
+## For cloning the project 🪛
+
