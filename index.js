@@ -18,9 +18,7 @@ async function handleClick() {
     console.log(deckId)
 }
 
-
 newDeckBtn.addEventListener("click", handleClick)
-
 
 drawCardBtn.addEventListener("click", async () => {
     const res = await fetch(`https://apis.scrimba.com/deckofcards/api/deck/${deckId}/draw/?count=2`)
