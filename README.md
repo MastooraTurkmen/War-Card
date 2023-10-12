@@ -62,7 +62,6 @@ $ cd War-Card
 6. After selecting here you can see that the project **_Review configuration for War-Card_** and then select the **_Deploy War-Card_** Button.
 7. Now your project is Live.
 
-
 ------
 
 ## Author 👩🏻‍💻 
