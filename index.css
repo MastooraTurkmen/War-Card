@@ -15,6 +15,10 @@ body {
   color: white;
 }
 
+h2 {
+  margin: 10px;
+}
+
 button {
   background-color: #fff100;
   cursor: pointer;
@@ -54,7 +58,7 @@ div.top {
   align-self: flex-start;
 }
 
-div.top > p {
+div.top>p {
   margin: 0;
   margin-left: 10px;
 }
