@@ -9,7 +9,6 @@ const remainingText = document.getElementById("remaining")
 const computerScoreEl = document.getElementById("computer-score")
 const myScoreEl = document.getElementById("my-score")
 
-
 async function handleClick() {
     const res = await fetch("https://apis.scrimba.com/deckofcards/api/deck/new/shuffle/")
     const data = await res.json()
