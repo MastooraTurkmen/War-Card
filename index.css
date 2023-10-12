@@ -72,7 +72,7 @@ h2 {
     font-size: 2.5rem;
     margin-top: 0;
   }
-  
+
   button.draw {
     align-self: center;
     padding: 0.7em 2em;
@@ -80,6 +80,7 @@ h2 {
     font-size: 1.5rem;
     border-radius: 0.5em;
   }
+  
   #remaining {
     margin-top: 1.3em;
     font-size: 1.2rem;
