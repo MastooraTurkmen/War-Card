@@ -37,4 +37,5 @@
 $ git clone https://github.com/MastooraTurkmen/War-Card.git
 
 # Go inside the repository
+$ cd War-Card
 ```
