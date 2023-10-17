@@ -8,7 +8,7 @@
 
 ![Alt text](./img/War-Card.png)
 ![Alt text](./img/War-Card-2.png)
-![Alt text](War-Card-3.png)
+![Alt text](./img/War-Card-3.png)
 
 ------
 
