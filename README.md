@@ -1,6 +1,6 @@
 # War Card
 
-## How to play this game:
+## How to play this game: 🤺 ♡
 
 1. Click the New Deck to start the game.
 2. when you click the Draw button you can get two random cards. Then this shows who win the game
