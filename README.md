@@ -6,6 +6,9 @@
 2. when you click the Draw button you can get two random cards. Then this shows who win the game
 3. you can play the game until you reach to 52 cards.
 
+
+### Screenshots
+
 ![War-Card](./img/War-Card.png)
 ![War-Card-2](./img/War-Card-2.png)
 ![War-Card-3](./img/War-Card-3.png)
