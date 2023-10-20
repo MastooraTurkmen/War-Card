@@ -7,7 +7,7 @@
 3. you can play the game until you reach to 52 cards.
 
 ![War-Card](./img/War-Card.png)
-![Alt text](./img/War-Card-2.png)
+![War-Card-2](./img/War-Card-2.png)
 ![Alt text](./img/War-Card-3.png)
 
 ------
