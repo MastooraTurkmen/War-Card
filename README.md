@@ -10,7 +10,7 @@
 ### Screenshots
 
 ![War-Card](./img/War-Card.png)
-![War-Card-2](./img/War-Card-2.png)
+![War-Card-2](./img/War-Card-1.png)
 ![War-Card-3](./img/War-Card-3.png)
 
 ------
