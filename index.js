@@ -20,9 +20,11 @@ async function handleClick() {
 newDeckBtn.addEventListener("click", handleClick)
 
 drawCardBtn.addEventListener("click", async () => {
+    
     const res = await fetch(`https://apis.scrimba.com/deckofcards/api/deck/${deckId}/draw/?count=2`)
     const data = await res.json()
     remainingText.textContent = `Remaining cards: ${data.remaining}`
+
     cardsContainer.children[0].innerHTML = `
         <img src=${data.cards[0].image} class="card" />
     `
